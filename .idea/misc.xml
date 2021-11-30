@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/drawable-v24/circle.xml" value="0.2484375" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/font/alegreya_sans.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_certification.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_chatbot.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_eboks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_livesession.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_otpscreen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_splashscreen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_verifyotp.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/activity_videolecture.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/groxx/AndroidStudioProjects/ELearning3/app/src/main/res/layout/row.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
